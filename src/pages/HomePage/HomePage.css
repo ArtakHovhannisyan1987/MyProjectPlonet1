@@ -1,0 +1,46 @@
+.homeflex{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.home-bg-1{
+    width: 320px;
+    height: 300px;
+    background-image: url(../../../public/img/armenia.jpg);
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+    
+}
+.home-bg-2{
+    width: 320px;
+    height: 300px;
+    background-image: url(../../../public/img/turizm.jpg);
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+.home-bg-3{
+    width:320px;
+    height: 300px;
+    background-image: url(../../../public/img/mashina.jpg);
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+.home-h2{
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+    transition: 1s;
+}
+.home-h2:hover{
+    transition: 1s;
+    font-size: 18px;
+    color: black;
+    text-decoration: underline;
+}
+
+.div{
+    text-align: center;
+}
+

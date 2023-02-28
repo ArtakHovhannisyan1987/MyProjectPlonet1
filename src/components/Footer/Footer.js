@@ -1,10 +1,10 @@
 import React from "react";
 import './Footer.css';
-import Earth from "../../../img/planet-2.png";
-import facebook from "../../../img/facebook.png";
-import instagram from "../../../img/instagram.png";
-import telegram from "../../../img/telegram.png";
-import erkir from "../../../img/erkir.jpg"
+import Earth from "../../img/planet-2.png";
+import facebook from "../../img/facebook.png";
+import instagram from "../../img/instagram.png";
+import telegram from "../../img/telegram.png";
+import erkir from "../../img/erkir.jpg"
 
 
 export default function Footer(){

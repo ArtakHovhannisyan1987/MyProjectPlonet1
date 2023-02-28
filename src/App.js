@@ -6,7 +6,7 @@ import About from './pages/AboutPage/AboutPage';
 import Contact from './pages/ContactPage/ContactPage';
 import Jokes from './pages/JokesPage/JokesPage';
 import Register from './pages/RegisterPage/RegisterPage';
-import Footer from './components/Menu/Footer/Footer';
+import Footer from './components/Footer/Footer';
 
 
 
