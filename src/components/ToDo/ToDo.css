@@ -1,0 +1,20 @@
+.item-delete{
+    cursor:pointer;
+    font-size: 22px;
+    color: white;
+}
+.item-delete:hover{
+    color: rgb(254, 0, 0);
+    
+}
+
+.strike{
+    color: darkblue;
+    cursor: pointer;
+    font-size: 17px;
+}
+.item-text{
+    color:white;
+    cursor: pointer;
+    font-size: 17px;
+}

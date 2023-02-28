@@ -1,0 +1,44 @@
+.jok{
+    height: 650px;
+    background-image: url(../../../public/img/jokes-1.jpg);
+    background-size: 100% 100%;
+ 
+
+}
+.jok_1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.jok_2{
+    background-color:darkred;
+    opacity: 0.9;
+    width: 450px;
+    margin: 10px;
+    font-size: 19px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 3px;
+}
+.jok_2:hover{
+    border: 2px solid black;
+}
+
+.but_1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.but_2{
+    margin-top: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 27px;
+    text-align: center;
+    color: darkred;
+    border-color: darkred;
+}
+.but_2:hover{
+    color:darkblue;
+    border: 2px solid darkblue;
+}

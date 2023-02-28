@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+#nav {
+    width: 100%;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+    background-color:darkblue;
+}
+.li1{
+    padding:  22px;
+    display: block;
+    color: white;
+    font-size: 27px;
+    text-align: center;
+    height: 85px;
+}
+.li2{
+    padding:  22px;
+    display: block;
+    color:rgb(165, 95, 230);
+    font-size: 25px;
+    text-align: center;
+    height: 85px;
+
+}
+.li1:hover{
+    background-color:skyblue;
+    color:black;
+}
+.li2:hover{
+    background-color: skyblue;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
